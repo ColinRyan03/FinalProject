@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Colin\ Ryan\r\n\ CPSC220\r\n\ Project\ 5\r\n\ Player\ class.\ This\ class\ defines\ the\ Player\ object,\ which\ has\ a\ String\ as\ an\ input\ parameter,\ an\ X\ or\ an\ O.\r\n\ There\ is\ a\ getter\ and\ setter\ for\ whether\ a\ player\ is\ an\ X\ player\ or\ an\ O\ player.\r\n
+comment1.params=
+comment1.target=Player()
+comment2.params=xo
+comment2.target=Player(java.lang.String)
+comment3.params=xo
+comment3.target=void\ setXO(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getXO()
+numComments=5

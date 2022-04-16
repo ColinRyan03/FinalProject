@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Board
+comment0.text=\r\n\ Colin\ Ryan\r\n\ CPSC220\r\n\ Project\ 5\r\n\ Board\ class.\ This\ class\ defines\ the\ board\ that\ is\ played\ on.\ \r\n\ It\ has\ two\ methods,\ one\ for\ an\ example\ board\ that\ pops\ up\ at\ \r\n\ the\ beggining\ of\ each\ game,\ and\ another\ for\ when\ the\ game\ is\ being\ played.\r\n
+comment1.params=
+comment1.target=void\ ExampleBoard()
+comment2.params=s1\ s2\ s3\ s4\ s5\ s6\ s7\ s8\ s9
+comment2.target=void\ Board(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=3
