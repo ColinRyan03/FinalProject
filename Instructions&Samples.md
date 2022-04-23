@@ -6,4 +6,4 @@ https://imgur.com/gL4whh0
 
 Here is an example of a completed program. I decided to play 3 games by entering “Y” at the end of each individual game. At the end of the third one, I entered “N” and the program stopped. It prints the total number of wins for each player. In this case, Player 1 had the most wins with 2. 
 
-https://imgur.com/gallery/g8cCD0t
+https://imgur.com/gallery/pdJ5VIE
