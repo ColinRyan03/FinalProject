@@ -2,7 +2,7 @@ My program is a Tic-Tac-Toe game. It is run by running the main method in the �
 
 Below is an example of the pre-game output. First, it prompts Player 1 to enter “X” or “O” and makes Player 2 an X or an O player based on what Player 1 picked. Here, Player 1 chose to be X’s, so Player 2 is O’s. All of this appears at the beginning of each game, so you can change it if you’d like. Next it prints the example board, showing you the 9 slots and explaining how to play. Before the Tic-Tac-Toe game begins, there is a number guessing game. Whoever wins this gets to make the first move in Tic-Tac-Toe. The computer chooses a number, and the 2 players enter their guesses. As stated before, this program is error/crash-proof, so feel free to enter in incorrect input. It will simply prompt you again each time you enter something incorrect. After the first player is decided by this game (by whoever gets closest to the number), the game of Tic-Tac-Toe begins. Below this image is an image of a completed Tic-Tac-Toe game.  
 
-https://imgur.com/gL4whh0
+https://imgur.com/a/zWSv4VT
 
 Here is an example of a completed program. I decided to play 3 games by entering “Y” at the end of each individual game. At the end of the third one, I entered “N” and the program stopped. It prints the total number of wins for each player. In this case, Player 1 had the most wins with 2. 
 
